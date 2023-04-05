@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86d1e7a0-b9ef-4bb8-9485-6071249c3e71" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ex1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex1/ex1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/ex2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/src/Programa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex3/ex3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex4/ex4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex5/ex5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex5/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2NOARgUNQgNTcnDX7Umth4peMRo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86d1e7a0-b9ef-4bb8-9485-6071249c3e71" name="Changes" comment="" />
+      <created>1679524748723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679524748723</updated>
+      <workItem from="1680569703541" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
