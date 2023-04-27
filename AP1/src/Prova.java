@@ -4,6 +4,15 @@ public class Prova {
 
     double calcularNotaTotal() {
         double notaTotal = notaParte1 + notaParte2;
-        return notaTotal;
+
+            if (notaTotal>10){
+                return 0;
+            }
+            else {
+                return notaTotal;
+            }
     }
+
+
+
 }
