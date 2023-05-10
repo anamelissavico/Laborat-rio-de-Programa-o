@@ -3,6 +3,7 @@ public class Equipe {
     int vitorias;
     int derrotas;
     int empates;
+    int pontos;
 
     public String getNome() {
         return nome;
@@ -45,6 +46,7 @@ public class Equipe {
 
     void registrarVitoria(){
         this.vitorias++;
+        this.pontos=pontos+3;
     }
 
     void registrarDerrota(){
@@ -53,8 +55,25 @@ public class Equipe {
 
     void registrarEmpate(){
         this.empates++;
+        this.pontos++;
     }
 
+    double calcularAproveitamento(){
+        int totalJogos= this.vitorias+this.empates+this.derrotas;
+        int totalPontosPossiveis= totalJogos*3;
+        double aproveitamento= (pontos*100)/totalPontosPossiveis;
+        return aproveitamento;
+    }
 
+    void exibirInformacoes(){
 
+        System.out.println(nome);
+        System.out.println("O total de pontos da equipe é:"+ pontos);
+        System.out.println("O total de vitórias da equipe é:"+ vitorias);
+        System.out.println("O total de derrotas da equipe é:"+ derrotas);
+        System.out.println("O total de empates da equipe é:"+ empates);
+        System.out.println("O total de aproveitamento da equipe é:" + calcularAproveitamento() + "%");
+        System.out.println("------------------------------------------------------");
+
+    }
 }
